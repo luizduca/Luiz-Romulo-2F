@@ -1,5 +1,9 @@
 @import url(reset.css);
 @import url(header.css);
-body{
-    background-color:#EBECCE;
+
+:root{
+    --branco: #FFFFFF;
+    --cor-de-fundo: #ebecce;
+    --laranja: #eb9b00;
+    --azul-degrade: linear-gradient(97.56deg, #002f52 39.49%,#326589 165.37%)
 }
