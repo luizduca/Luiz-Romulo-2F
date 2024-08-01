@@ -1,9 +1,0 @@
-.legal{
-    color: blue;
-    font-size: 300px;
-    background-color: aliceblue;
-}
-@media screen and (max-width:300px){
-    background-color: aliceblue;
-}
-@import url(reset.css);
