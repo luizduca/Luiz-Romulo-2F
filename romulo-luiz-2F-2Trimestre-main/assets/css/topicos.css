@@ -15,15 +15,17 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    justify-content: space-around;
-    padding: 1em;
-    font-weight: 700;
-    color: var(--branco);
+}
+
+.topicos-item{
+    margin: 2em 0.5em;
 }
 
 .topicos-link{
     text-decoration: none;
     color: var(--branco);
-    margin: 2em;
     background-color: var(--laranja);
+    padding: 1em;
+    font-size: 14px;
+    font-weight: 700;
 }
